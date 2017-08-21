@@ -15,10 +15,10 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 #rss_url: "/feed.xml"  # RSS 订阅 URL
 #logo_image: "/images/logo.png"  # LOGO 图片地址
 # Build settings
-gems: [jekyll-paginate]
+#gems: [jekyll-paginate]
 #markdown: rdiscount
-highlighter: rouge
-permalink: /:title/
-paginate: 8
-paginate_path: page/:num
+#highlighter: rouge
+#permalink: /:title/
+#paginate: 8
+#paginate_path: page/:num
  
