@@ -1,8 +1,8 @@
 # Site settings
-title: 柳伟卫的个人网站 Way Lau's Personal Site - 关注编程、系统架构、性能优化
-name: 柳伟卫的个人网站 Way Lau's Personal Site
-url: "http://waylau.com"
-email: waylau521@gmail.com
+title: Jiongqian (Albert) Liang
+name: Jiongqian's Personal Site
+url: "http://jiongqianliang.com"
+email: liang.420 AT osu.edu
 description: 柳伟卫的个人网站 Way Lau's Personal Site - 关注编程、系统架构、性能优化 | waylau.com
 baseurl: "" # the subpath of your site, e.g. /blog/
 twitter_username: waylau521  # Twitter ID
