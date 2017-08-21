@@ -17,7 +17,7 @@ baidushare_id: 89860593 #  百度分享 ID
 # Build settings
 gems: [jekyll-paginate]
 #markdown: rdiscount
-highlighter: pygments
+highlighter: rouge
 permalink: /:title/
 paginate: 8
 paginate_path: page/:num
