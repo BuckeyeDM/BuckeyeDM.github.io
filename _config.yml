@@ -16,7 +16,7 @@ baidushare_id: 89860593 #  百度分享 ID
 #logo_image: "/images/logo.png"  # LOGO 图片地址
 # Build settings
 gems: [jekyll-paginate]
-markdown: rdiscount
+#markdown: rdiscount
 highlighter: pygments
 permalink: /:title/
 paginate: 8
