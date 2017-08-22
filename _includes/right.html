@@ -9,8 +9,16 @@
   </div>
 
   <div class="row">
-    <h4>Contact</h4>
+    <h4>Useful Links</h4>
     <ul >
+      {% if site.scholar %}
+      <li>
+        <a href="https://scholar.google.com/citations?user={{ site.scholar }}">
+          <i class="fa fa-google"></i>
+          <span class="username">Google Scholar</span>
+        </a>
+      </li>
+      {% endif %}
       {% if site.email %}
       <li>
         <a href="mailto:{{ site.email }}">
