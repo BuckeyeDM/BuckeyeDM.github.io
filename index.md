@@ -17,3 +17,6 @@ I am a fifth-year Ph.D. student in [Department of Computer Science and Engineeri
 * Our paper is accepted by WWW'16 for oral presentation. (04/2016)
 * I am now a research scientist intern at Bell Labs. (05/2015--08/2015)
 * The office hour for CSE2331/5331 is 4-5pm Tuesday in DL686. (2015 Spring)
+
+## Publications
+* **J. Liang** and S. Parthasarathy. "Robust Contextual Outlier Detection: Where Context Meets Sparsity". In Proceedings of the 25th International Conference on Information and Knowledge Management (CIKM'16), 2016. \[[PDF](./publications/CIKM16_ROCOD.pdf)\]\[[Extended Version](https://arxiv.org/abs/1607.08329)\]\[[bib](./publications/CIKM16.bib)\]
