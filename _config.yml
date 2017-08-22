@@ -6,6 +6,9 @@ email: liang.420 AT osu.edu
 description: Jiongqian's Personal Site
 baseurl: "" # the subpath of your site, e.g. /blog/
 scholar: 7KZ4FfwAAAAJ
+linkedin: jiongqian-albert-liang-6538b557
+resume: resume.pdf
+logo_image: "/images/photo.jpg"
 #twitter_username: waylau521  # Twitter ID
 #github_username:  waylau # Github ID
 #weibo_username: waylau521  # Weibo ID
@@ -14,7 +17,6 @@ scholar: 7KZ4FfwAAAAJ
 #baidushare_id: 89860593 #  百度分享 ID
 #google-analytics_id: UA-50593531-1  # Google Analytics ID
 #rss_url: "/feed.xml"  # RSS 订阅 URL
-#logo_image: "/images/logo.png"  # LOGO 图片地址
 # Build settings
 #gems: [jekyll-paginate]
 #markdown: rdiscount

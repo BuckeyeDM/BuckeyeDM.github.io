@@ -19,6 +19,22 @@
         </a>
       </li>
       {% endif %}
+      {% if site.linkedin %}
+      <li>
+        <a href="https://www.linkedin.com/in/{{ site.linkedin }}">
+          <i class="fa fa-linkedin-square"></i>
+          <span class="username">LinkedIn</span>
+        </a>
+      </li>
+      {% endif %}
+      {% if site.resume %}
+      <li>
+        <a href="{{ site.resume }}">
+          <i class="fa fa-id-card-o"></i>
+          <span class="username">Resume</span>
+        </a>
+      </li>
+      {% endif %}
       {% if site.email %}
       <li>
         <a href="mailto:{{ site.email }}">
