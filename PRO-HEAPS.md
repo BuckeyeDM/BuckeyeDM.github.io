@@ -1,6 +1,5 @@
 ---
 layout: page
-title: PRO-HEAPS
 excludedFromNav: true
 hideRight: true
 permalink: /PRO-HEAPS/
@@ -9,8 +8,8 @@ permalink: /PRO-HEAPS/
 # PROphetic HEuristic Algorithm for Path Searching (PRO-HEAPS)
 
 ## Datasets
-### Stack Overflow
-This is the dataset preprocessed from the [Stack Overflow dump](https://archive.org/details/stackexchange). 
+### 1. Stack Overflow
+This is a dataset preprocessed from the [Stack Overflow dump](https://archive.org/details/stackexchange). 
 We parsed each post and constructed a heterogeneous information network (HIN) by dividing entities into the vertex labels: question, answer, tag and user. 
 In this version of dataset, we remove the directionality of edges since each edge always connects nodes of different labels. 
 We do not provide the weights of edges in this dataset. The weights can be defined based on the interestingness, such as time recency and popularity of questions, 
@@ -25,3 +24,19 @@ which can be inferred by the attributes of nodes. Here are the lists of data fil
 * [Tags](http://web.cse.ohio-state.edu/~liang.420/datasets/Tag.new.gz): This file provides the detailed information of each tag. It has two columns separated by " ### ". The first column is the id of the tag and the second column is the text of the tag.
 
 * [Users](http://web.cse.ohio-state.edu/~liang.420/datasets/User.new.gz): This is a file describing the mapping of the user id in the graph to the original id in the raw dataset. It has two columns separated by " ### ". The first column is the id of the user in our HIN and the second column is the id of the user in the original dataset. The original dataset of users can be downloaded [here](https://drive.google.com/open?id=0B51ZquKpPTzMMjA2cE16ZFV3Wjg).
+
+### 2. DBLP
+This is a dataset preprocessed from the [DBLP dump](http://dblp.uni-trier.de/xml/). This dataset contains four types of nodes: author, paper, venue, and terminology. The terminologies are parsed from the title of each paper.  
+* [HIN graph](https://drive.google.com/file/d/0BxYPnHj3Q4pSOWJUUjdPMFRRMWs/view?usp=sharing): This is the HIN graph in edgelist format. Each line (except the The first line) represents an edge with format "node_id node_id \[node_label\] \[node_label\] edge_label wgt_year". 
+For the node labels, "[0]" represents the Paper, "[1]" represents the Author, "[2]" represents Venue, "[3]" represents Term.
+In total, the graph contains 2,241,258 nodes and 14,747,328 edges. 
+
+### 3. Enron
+This is a dataset containing Email messages sent between employees of the Enron
+corporation (see [here](https://www.cs.cmu.edu/~./enron/) for the original dataset). 
+We created a HIN based on the raw dataset with four types of vertex labels:
+person, Email address, Email message, and topic. For the topics, we created fifty topics
+using the LDA model [Blei et al. 2003], and linked each Email message to the closest three
+topics.
+* [HIN graph](https://drive.google.com/file/d/0BxYPnHj3Q4pSemluR0dTb1VfQ1U/view?usp=sharing): This is the HIN graph in edgelist format. Each line (except the The first line) represents an edge with format "node_id node_id \[node_label\] \[node_label\] edge_label wgt". For the node labels, "[0]" represents the person, "[1]" represents Email address, "[2]" represents Email message, "[3]" represents topic.
+In total, the graph contains 46,463 nodes and 613,838 edges.
