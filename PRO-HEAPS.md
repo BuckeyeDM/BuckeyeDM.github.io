@@ -1,11 +1,10 @@
 ---
 layout: page
+title: PROphetic HEuristic Algorithm for Path Searching (PRO-HEAPS)
 excludedFromNav: true
 hideRight: true
 permalink: /PRO-HEAPS/
 ---
-
-# PROphetic HEuristic Algorithm for Path Searching (PRO-HEAPS)
 
 ## Datasets
 ### 1. Stack Overflow
