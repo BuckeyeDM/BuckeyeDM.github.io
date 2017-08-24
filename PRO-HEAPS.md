@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: page
+title: PRO-HEAPS
 excludedFromNav: true
 permalink: /PRO-HEAPS/
 ---
