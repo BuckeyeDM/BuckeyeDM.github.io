@@ -2,6 +2,7 @@
 layout: page
 title: PRO-HEAPS
 excludedFromNav: true
+hideRight: true
 permalink: /PRO-HEAPS/
 ---
 
