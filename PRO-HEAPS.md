@@ -39,3 +39,8 @@ using the LDA model [Blei et al. 2003], and linked each Email message to the clo
 topics.
 * [HIN graph](https://drive.google.com/file/d/0BxYPnHj3Q4pSemluR0dTb1VfQ1U/view?usp=sharing): This is the HIN graph in edgelist format. Each line (except the The first line) represents an edge with format "node_id node_id \[node_label\] \[node_label\] edge_label wgt". For the node labels, "[0]" represents the person, "[1]" represents Email address, "[2]" represents Email message, "[3]" represents topic.
 In total, the graph contains 46,463 nodes and 613,838 edges.
+
+## Reference
+The datasets should only be used for academic purpose. Please consider citing the following paper if you use the above datasets.
+
+* **J. Liang**, D. Ajwani, P. Nicolson, A. Sala, S. Parthasarathy. "What Links Alice and Bob? Matching and Ranking Semantic Patterns in Heterogeneous Networks". In *Proceedings of the 25th International World Wide Web Conferences (WWW'16)*, pp. 879-889, 2016. \[[PDF](./publications/WWW16_PRO-HEAPS.pdf)\]\[[bib](publications/WWW16.bib)\]
