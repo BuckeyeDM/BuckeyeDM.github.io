@@ -12,6 +12,7 @@ I am a fifth-year Ph.D. student in [Department of Computer Science and Engineeri
 * Address: 395 Dreese Laboratory, 2015 Neil Ave, Columbus, OH-43210, USA
 
 ## Update
+* I am currently in the job market and expected to graduate in 2018. (09/2017)
 * I am doing my second internship at Google. (05/2017--08/2017)
 * Our paper on contextual outlier detection is accepted to CIKM'16. (10/2016)
 * I am doing my summer internship at Google. (05/2016--08/2016)
