@@ -6,4 +6,4 @@ hideRight: true
 permalink: /SEANO/
 ---
 #### Semi-supervised Embedding in Attributed Networks with Outliers
-Source code and datasets of SEANO can be download [here](./SEANO.zip).
+Source code and datasets of SEANO can be download [here](http://web.cse.ohio-state.edu/~liang.420/SEANO_Code.zip).
