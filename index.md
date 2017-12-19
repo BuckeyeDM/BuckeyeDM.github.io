@@ -12,6 +12,7 @@ I am a fifth-year Ph.D. student in [Department of Computer Science and Engineeri
 * Address: 395 Dreese Laboratory, 2015 Neil Ave, Columbus, OH-43210, USA
 
 ## Update
+* Our work of SEANO is accepted by SDM'18. (12/2017)
 * I am doing my second internship at Google. (05/2017--08/2017)
 * Our paper on contextual outlier detection is accepted to CIKM'16. (10/2016)
 * I am doing my summer internship at Google. (05/2016--08/2016)
@@ -20,7 +21,7 @@ I am a fifth-year Ph.D. student in [Department of Computer Science and Engineeri
 * The office hour for CSE2331/5331 is 4-5pm Tuesday in DL686. (2015 Spring)
 
 ## Publications
-* **J. Liang**, P. Jacobs, J. Sun, S. Parthasarathy. "SEANO: Semi-supervised Embedding in Attributed Networks with Outliers". In *Arxiv (under submission)*, 2017. \[[PDF](https://arxiv.org/pdf/1703.08100.pdf)\]
+* **J. Liang**, P. Jacobs, J. Sun, S. Parthasarathy. "SEANO: Semi-supervised Embedding in Attributed Networks with Outliers". In * Proceedings of SIAM International Conference on Data Mining (SDM'18)*, 2018. \[[PDF](https://arxiv.org/pdf/1703.08100.pdf)\]
 * **J. Liang**, D. Ajwani, P. Nicolson, A. Sala, S. Parthasarathy. "Prioritized Relationship Analysis in Heterogeneous Information Networks". In *ACM Transactions on Knowledge Discovery from Data (TKDD)*, 2017.
 * **J. Liang** and S. Parthasarathy. "Robust Contextual Outlier Detection: Where Context Meets Sparsity". In *Proceedings of the 25th International Conference on Information and Knowledge Management (CIKM'16)*, 2016. \[[PDF](./publications/CIKM16_ROCOD.pdf)\]\[[Extended Version](https://arxiv.org/abs/1607.08329)\]\[[bib](./publications/CIKM16.bib)\]
 * **J. Liang**, D. Ajwani, P. Nicolson, A. Sala, S. Parthasarathy. "What Links Alice and Bob? Matching and Ranking Semantic Patterns in Heterogeneous Networks". In *Proceedings of the 25th International World Wide Web Conferences (WWW'16)*, pp. 879-889, 2016. \[[PDF](./publications/WWW16_PRO-HEAPS.pdf)\]\[[Slides_Prezi](http://prezi.com/f524pmfbtixc/?utm_campaign=share&utm_medium=copy&rc=ex0share)\]\[[Dataset](./PRO-HEAPS/)\]\[[bib](publications/WWW16.bib)\]
