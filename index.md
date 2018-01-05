@@ -12,6 +12,7 @@ I am a fifth-year Ph.D. student in [Department of Computer Science and Engineeri
 * Address: 395 Dreese Laboratory, 2015 Neil Ave, Columbus, OH-43210, USA
 
 ## Update
+* Our work of Human-guided Flood Mapping is accepted by WWW'18 (12/2017).
 * Our work of SEANO is accepted by SDM'18. (12/2017)
 * Our paper on heterogeneous information networks analysis is accepted by TKDD. (10/2017)
 * I am doing my second internship at Google. (05/2017--08/2017)
@@ -22,6 +23,7 @@ I am a fifth-year Ph.D. student in [Department of Computer Science and Engineeri
 * The office hour for CSE2331/5331 is 4-5pm Tuesday in DL686. (2015 Spring)
 
 ## Publications
+* **J. Liang**, P. Jacobs, S. Parthasarathy. "Human-Guided Flood Mapping: From Experts to the Crowd". In *Proceedings of the Web Conference (WWW'18)*, Cognitive Computing Track, 2018. \[[PDF](./available_soon.html)\]
 * **J. Liang**, P. Jacobs, J. Sun, S. Parthasarathy. "SEANO: Semi-supervised Embedding in Attributed Networks with Outliers". In *Proceedings of SIAM International Conference on Data Mining (SDM'18)*, 2018. \[[PDF](https://arxiv.org/pdf/1703.08100.pdf)\]\[[Code](/SEANO)\]
 * **J. Liang**, D. Ajwani, P. Nicolson, A. Sala, S. Parthasarathy. "Prioritized Relationship Analysis in Heterogeneous Information Networks". In *ACM Transactions on Knowledge Discovery from Data (TKDD)*, 2017.
 * **J. Liang** and S. Parthasarathy. "Robust Contextual Outlier Detection: Where Context Meets Sparsity". In *Proceedings of the 25th International Conference on Information and Knowledge Management (CIKM'16)*, 2016. \[[PDF](./publications/CIKM16_ROCOD.pdf)\]\[[Extended Version](https://arxiv.org/abs/1607.08329)\]\[[bib](./publications/CIKM16.bib)\]

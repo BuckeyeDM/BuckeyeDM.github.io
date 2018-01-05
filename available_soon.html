@@ -1,0 +1,21 @@
+---
+layout: page
+---
+
+<h2> This will be available soon. </h2>
+ <div class="tips">
+  <p>Stay tuned ...</p>
+   <p id="view"/>
+</div>
+
+<script>
+  var t = 10;
+  setInterval("testTime()", 1000);
+  function testTime() {
+    view.innerHTML = t + " seconds to homepage...";
+    if(t == 0) {
+      location="{{ site.url }}";
+    }
+    t--;
+  }
+</script>
