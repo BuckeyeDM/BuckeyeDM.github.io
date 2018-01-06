@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SEANO: Semi-supervised Embedding in Attributed Networks with Outliers
+title: SEANO
 excludedFromNav: true
 hideRight: true
 permalink: /SEANO/
