@@ -1,6 +1,7 @@
 ---
 layout: default
 index: true
+title: Jiongqian (Albert) Liang's Homepage
 excludedFromNav: true
 ---
 
