@@ -31,3 +31,11 @@ I am a fifth-year Ph.D. student in [Department of Computer Science and Engineeri
 * **J. Liang**, D. Fuhry, D. Maung, A. Borstad, R. Crawfis, L. Gauthier, A. Nandi, S. Parthasarathy. "Data Analytics Framework for A Game-based Rehabilitation System". In *Proceedings of the 6th International Conference on Digital Health (DH'16)*, pp. 67-76, 2016 \[[PDF](publications/DH16_GameSystem.pdf)\]\[[Slides_PPT](publications/DH16_Talk_public.pptx)\]\[[Slides_PDF](publications/DH16_Talk_public.pdf)\]\[[bib](publications/DH16.bib)\]
 * Y. Ye, Y. Xu, Y. Zhu, **J. Liang**, T. Lan, M. Yu. "The Characteristics of Moral Emotions of Chinese Netizens towards an Anthropogenic Hazard: A Sentiment Analysis on Weibo". In *Acta Psychologica Sinica*, 2016.
 * Y. Ruan, D. Fuhry, **J. Liang**, Y. Wang, and S. Parthasarathy. "Community Discovery: Simple and Scalable Approaches". In User Community Discovery , pp. 23-54. Springer International Publishing, 2015. \[[link](https://link.springer.com/chapter/10.1007%2F978-3-319-23835-7_2)\]\[[bib](publications/Chap2015.bib)\]
+
+## Professional Services
+* CIKM 2017, Program Committee Member
+* WWW 2017, Program Committee Member
+* ACM Transactions on Knowledge Discovery from Data (TKDD), Reviewer
+* Data Mining and Knowledge Discovery (DMKD), Reviewer
+* IEEE/ACM Transactions on Networking (ToN), Reviewer
+* IEEE Transactions on Systems, Man, and Cybernetics: Systems, Reviewer
