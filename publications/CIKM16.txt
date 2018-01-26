@@ -1,0 +1,8 @@
+@inproceedings{liang2016robust,
+  title={Robust Contextual Outlier Detection: Where Context Meets Sparsity},
+  author={Liang, Jiongqian and Parthasarathy, Srinivasan},
+  booktitle={Proceedings of the 25th ACM International on Conference on Information and Knowledge Management},
+  pages={2167--2172},
+  year={2016},
+  organization={ACM}
+}

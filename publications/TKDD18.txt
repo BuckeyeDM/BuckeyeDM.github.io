@@ -1,0 +1,10 @@
+@article{liang2018prioritized,
+ author = {Liang, Jiongqian and Ajwani, Deepak and Nicholson, Patrick K. and Sala, Alessandra and Parthasarathy, Srinivasan},
+ title = {Prioritized Relationship Analysis in Heterogeneous Information Networks},
+ journal = {ACM Transactions on Knowledge Discovery from Data (TKDD)},
+ volume = {12},
+ number = {3},
+ pages = {29:1--29:27},
+ year = {2018},
+ publisher = {ACM}
+} 

@@ -1,0 +1,7 @@
+@inproceedings{liang2016human,
+  title={Human-guided Flood Mapping on Satellite Images},
+  author={Liang, Jiongqian and Jacobs, Peter and Parthasararthy, Srinivasan},
+  booktitle={KDD 2016 Workshop on Interactive Data Exploration and Analytics (IDEA'16)},
+  pages={76--85},
+  year={2016}
+}
