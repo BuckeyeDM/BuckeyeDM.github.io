@@ -1,4 +1,4 @@
-@article{SEANO,
+@inproceedings{SEANO,
  title={Semi-supervised Embedding in Attributed Networks with Outliers},
  author={Liang, Jiongqian and Jacobs, Peter and Sun, Jiankai and Parthasarathy, Srinivasan},
  booktitle={Proceedings of the 2018 SIAM International Conference on Data Mining},
