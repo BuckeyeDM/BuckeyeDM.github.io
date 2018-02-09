@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MILE: A Multi-level Framework for Scalable Graph Embedding
+title: A Multi-level Framework for Scalable Graph Embedding
 excludedFromNav: true
 hideRight: true
 permalink: /MILE/
