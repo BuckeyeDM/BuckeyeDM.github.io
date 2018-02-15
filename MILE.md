@@ -6,5 +6,4 @@ hideRight: true
 permalink: /MILE/
 ---
 #### MILE: A Multi-level Framework for Scalable Graph Embedding
-We are actively working on publishing the code and dataset.
-
+The code and dataset can be accessed [here](http://web.cse.ohio-state.edu/~liang.420/MILE_CODE.zip).
