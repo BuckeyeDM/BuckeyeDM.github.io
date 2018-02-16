@@ -29,6 +29,8 @@ The code and dataset can be accessed [here](http://web.cse.ohio-state.edu/~liang
 
 * Input ground truth for evaluation: If evaluation is enable (without `--no-eval`), a file proving ground truth for multi-class classification is required. It contains the list of nodes with known labels, where each line corresponds to one node. For each line, the first number is the index of the node (should be the same with the input graph) and the remaing numbers form a vector representation of the label (multi-class allowed). See `./dataset/PPI.edgelist.truth` or `./dataset/PPI.metis.truth` for examples.
 
+* Output embeddings: if `--store-embed` is enabled, the embeddings will be saved under the `./dataset/` directory with extension of `.embeddings`.
+
 #### How To Run
 Use `python main.py` to run the code with all the default settings. Here are some useful arguments that can be passed into the program:
 * data: name of the dataset, e.g., `--data PPI`.
