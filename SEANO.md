@@ -6,8 +6,8 @@ hideRight: true
 permalink: /SEANO/
 ---
 
-### Semi-supervised Embedding in Attributed Networks with Outliers (SEANO)
-SEANO provides an effective method for graph embeddings on attributed networks that contains outliers.
+### Semi-supervised Embedding in Attributed Networks with Outliers
+SEANO provides an effective method for graph embedding on attributed networks that contain outliers.
 For more technical details, refer to [our paper](https://arxiv.org/pdf/1703.08100.pdf). Here we publish our
 code and dataset along with a brief instruction on how to run the code.
 
@@ -33,10 +33,10 @@ The list of required files of input is shown below. All index starts from 0 and 
 
 #### Outputs
 * If `--store-embed` is enabled, the embeddings will be saved to the `./data/` directory with `.embeddings` extension in text format.
-* If `--store-score` is enabeld, the outlier scores will be saved to the `./data/` directory with `.score` extension in text format.
+* If `--store-score` is enabeld, the outlier scores will be saved to the `./data/` directory with `.scores` extension in text format.
 
 
 #### How to run
-Use `python main.py` to run the code with the default parameters. For more details of the arguments, see main.py. 
+Use `python main.py` to run the code with the default parameters. For more details of the arguments, see `main.py`. 
 You might need to use the validation dataset to tune some hyper-parameters (e.g., `g_batch_size`, `g_sample_size`, etc.) 
 for your own dataset.
