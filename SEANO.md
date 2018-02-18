@@ -6,22 +6,26 @@ hideRight: true
 permalink: /SEANO/
 ---
 
-### Semi-supervised Embedding in Attributed Networks with Outliers
+### **Semi-supervised Embedding in Attributed Networks with Outliers**
 SEANO provides an effective method for graph embedding on attributed networks that contain outliers.
 For more technical details, refer to [our paper](https://arxiv.org/pdf/1703.08100.pdf). Here we publish our
 code and dataset along with a brief instruction on how to run the code.
 
-#### Code and Data
+#### **Code and data**
 They can be downloaded from [here]().
 
-#### Required packages
+#### **Required packages**
 * tensorflow
 * numpy
 * scipy
 
+#### **How to run**
+Use `python main.py` to run the code with the default parameters. For more details of the arguments, see `main.py`. 
+You might need to use the validation dataset to tune some hyper-parameters (e.g., `g_batch_size`, `g_sample_size`, etc.) 
+for your own dataset. 
 
-#### Inputs
-The list of required files of input is shown below. All index starts from 0 and the files are stored in **cPickle** format.
+#### **Inputs**
+The list of required files of input is shown below. The node index should be continuous starting from 0 and all the input files are stored in **cPickle** format.
 `xxx` means the name of the dataset, e.g., `cora`.
 - `xxx.X`: attributes of all nodes (sorted by id), e.g., `cora.X`.
 - `xxx.Y`: label vectors of all nodes, e.g., `cora.Y`.
@@ -31,12 +35,12 @@ The list of required files of input is shown below. All index starts from 0 and 
 - `xxx.test.index`: index of testing set. In the inductive case, this part will be excluded from training.
 - `xxx.rnd_walks.npy` (optional): random walk files. If missing, new random walks will be generated and written to this file.
 
-#### Outputs
-* If `--store-embed` is enabled, the embeddings will be saved to the `./data/` directory with `.embeddings` extension in text format.
-* If `--store-score` is enabeld, the outlier scores will be saved to the `./data/` directory with `.scores` extension in text format.
+#### **Outputs**
+All the output files are located in `./output/`, all of which are stored in **cPickle** format. There are three outputs:
+* `xxx.embed`: Embeddings of each node in the graph.
+* `xxx.pred_label`: Predicted labels of each node.
+* `xxx.outlier_score`: Outlier scores of each node.
+
+Note: if inductive learning is enabled through `--inductive`, the prefix of the outputs would be `xxx_ind.`.
 
 
-#### How to run
-Use `python main.py` to run the code with the default parameters. For more details of the arguments, see `main.py`. 
-You might need to use the validation dataset to tune some hyper-parameters (e.g., `g_batch_size`, `g_sample_size`, etc.) 
-for your own dataset.
