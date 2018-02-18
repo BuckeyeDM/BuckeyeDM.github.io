@@ -12,7 +12,7 @@ For more technical details, refer to [our paper](https://arxiv.org/pdf/1703.0810
 code and dataset along with a brief instruction on how to run the code.
 
 #### **Code and data**
-They can be downloaded from [here]().
+They can be downloaded from [here](http://web.cse.ohio-state.edu/~liang.420/SEANO_Code.zip).
 
 #### **Required packages**
 * tensorflow
@@ -25,7 +25,7 @@ You might need to use the validation dataset to tune some hyper-parameters (e.g.
 for your own dataset. 
 
 #### **Inputs**
-The list of required files of input is shown below. The node index should be continuous starting from 0 and all the input files are stored in **cPickle** format.
+The list of required files of input is shown below. The node index should be **continuous starting from 0** and all the input files are stored in **cPickle** format.
 `xxx` means the name of the dataset, e.g., `cora`.
 - `xxx.X`: attributes of all nodes (sorted by id), e.g., `cora.X`.
 - `xxx.Y`: label vectors of all nodes, e.g., `cora.Y`.
