@@ -44,4 +44,4 @@ In total, the graph contains 46,463 nodes and 613,838 edges.
 ## Reference
 The datasets should only be used for academic purpose. Please consider citing the following paper if you use the above datasets.
 
-* **J. Liang**, D. Ajwani, P. Nicolson, A. Sala, S. Parthasarathy. "What Links Alice and Bob? Matching and Ranking Semantic Patterns in Heterogeneous Networks". In *Proceedings of the 25th International World Wide Web Conferences (WWW'16)*, pp. 879-889, 2016. \[[PDF](./publications/WWW16_PRO-HEAPS.pdf)\]\[[bib](publications/WWW16.bib)\]
+* **J. Liang**, D. Ajwani, P. Nicolson, A. Sala, S. Parthasarathy. "What Links Alice and Bob? Matching and Ranking Semantic Patterns in Heterogeneous Networks". In *Proceedings of the 25th International World Wide Web Conferences (WWW'16)*, pp. 879-889, 2016. \[[PDF](./publications/WWW16_PRO-HEAPS.pdf)\]\[[bib](publications/WWW16.txt)\]

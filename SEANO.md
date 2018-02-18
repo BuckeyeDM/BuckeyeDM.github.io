@@ -6,7 +6,7 @@ hideRight: true
 permalink: /SEANO/
 ---
 
-### **Semi-supervised Embedding in Attributed Networks with Outliers**
+### **SEANO: Semi-supervised Embedding in Attributed Networks with Outliers**
 SEANO provides an effective method for graph embedding on attributed networks that contain outliers.
 For more technical details, refer to [our paper](https://arxiv.org/pdf/1703.08100.pdf). Here we publish our
 code and dataset along with a brief instruction on how to run the code.

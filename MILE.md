@@ -5,10 +5,10 @@ excludedFromNav: true
 hideRight: true
 permalink: /MILE/
 ---
-### **MILE: A Multi-level Framework for Scalable Graph Embedding**
+### **MILE: A Multi-Level Framework for Scalable Graph Embedding**
 MILE is a multi-level framework for scalable graph embedding. It supports the majority of exising graph embedding techniques.
 It can significantly improve the scalability of many graph embedding methods while potentially lifting the quality of embeddings.
-Read our paper for more details. Here we describe how to use the code of MILE and add a new embedding method as the base embedding technique.
+Read our paper for more details. Here we publish our code and data with a brief instruction on how to add a new embedding method as the base embedding technique.
 
 #### **Code and Data**
 The code and dataset can be accessed [here](http://web.cse.ohio-state.edu/~liang.420/MILE_CODE.zip).
