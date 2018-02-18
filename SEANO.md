@@ -25,22 +25,23 @@ You might need to use the validation dataset to tune some hyper-parameters (e.g.
 for your own dataset. 
 
 #### **Inputs**
-The list of required files of input is shown below. The node index should be **continuous starting from 0** and all the input files are stored in **cPickle** format.
+The list of required input files is shown below. The node index should be **continuous starting from 0** and all the input files are stored in **cPickle** format.
 `xxx` means the name of the dataset, e.g., `cora`.
 - `xxx.X`: attributes of all nodes (sorted by id), e.g., `cora.X`.
 - `xxx.Y`: label vectors of all nodes, e.g., `cora.Y`.
 - `xxx.graph`: graph stored in dictionary format. node id --> list of neighbors.
-- `xxx.labeled.index`: labeled node for semi-supervised training.
+- `xxx.labeled.index`: labeled nodes for semi-supervised training.
 - `xxx.val.index`: index of validation nodes.
 - `xxx.test.index`: index of testing set. In the inductive case, this part will be excluded from training.
 - `xxx.rnd_walks.npy` (optional): random walk files. If missing, new random walks will be generated and written to this file.
 
 #### **Outputs**
 All the output files are located in `./output/`, all of which are stored in **cPickle** format. There are three outputs:
-* `xxx.embed`: Embeddings of each node in the graph.
-* `xxx.pred_label`: Predicted labels of each node.
-* `xxx.outlier_score`: Outlier scores of each node.
+* `xxx.embed`: Embedding of each node in the graph.
+* `xxx.pred_label`: Predicted label of each node.
+* `xxx.outlier_score`: Outlier score of each node.
 
 Note: if inductive learning is enabled through `--inductive`, the prefix of the outputs would be `xxx_ind.`.
 
-
+#### **Reference**
+J. Liang, P. Jacobs, J. Sun, S. Parthasarathy. "Semi-supervised Embedding in Attributed Networks with Outliers". To appear in *Proceedings of SIAM International Conference on Data Mining (SDM'18)*, 2018. \[[PDF](https://arxiv.org/pdf/1703.08100.pdf)\]\[[bib](publications/SDM18.txt)\]
