@@ -14,7 +14,7 @@ I am a fifth-year Ph.D. student in [Department of Computer Science and Engineeri
 
 ## Update
 * Our work of Human-guided Flood Mapping is accepted by WWW'18 (12/2017).
-* Our work of SEANO is accepted by SDM'18. (12/2017)
+* Our work of SEANO is accepted by SDM'18. Code and data are available [online](/SEANO).(12/2017)
 * Our paper on heterogeneous information networks analysis is accepted by TKDD. (10/2017)
 * I am doing my second internship at Google. (05/2017--08/2017)
 * Our paper on contextual outlier detection is accepted to CIKM'16. (10/2016)
