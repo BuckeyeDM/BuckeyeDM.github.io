@@ -8,7 +8,7 @@ permalink: /HUGFM/
 
 ### **Human-guided Flood Mapping Results**
 
-Here are two animated gifs of flood mapping results.
+Here are two animated gifs of flood mapping results during Chennai 2015 Flood.
 1. Animation of flood mapping from 10/18/2015 to 12/18/2015 every 12 days.
 <img src="/img/animation_original.gif" style="width:600px;">
 2. Animation of flood mapping with 10/30/2015 as baseline. Red color indicates areas grow as water compared to 10/30/2015, while
