@@ -1,4 +1,3 @@
-<script type="text/javascript">
 if (typeof jQuery != 'undefined') {
     jQuery(document).ready(function($) {
         var filetypes = /\.(zip|exe|pdf|doc*|xls*|ppt*|mp3)$/i;
@@ -37,4 +36,3 @@ if (typeof jQuery != 'undefined') {
         });
     });
 }
-</script>
