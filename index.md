@@ -13,7 +13,7 @@ I am a fifth-year Ph.D. student in [Department of Computer Science and Engineeri
 * Address: 395 Dreese Laboratory, 2015 Neil Ave, Columbus, OH-43210, USA
 
 ## Update
-* Tired of slow speed of graph embedding? Try our [multi-level framework](https://arxiv.org/pdf/1703.08100.pdf) to speed up your embedding method. (02/2018).
+* Tired of slow speed of graph embedding? Try our [multi-level framework](https://arxiv.org/pdf/1802.09612.pdf) to speed up your embedding method. (02/2018).
 * Our work of SEANO is accepted by SDM'18. **Code and data are available [online](/SEANO)**.(12/2017)
 * Our work of Human-guided Flood Mapping is accepted by WWW'18 (12/2017).
 * Our paper on heterogeneous information networks analysis is accepted by TKDD. (10/2017)
