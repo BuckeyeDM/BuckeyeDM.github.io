@@ -13,6 +13,7 @@ I am a fifth-year Ph.D. student in [Department of Computer Science and Engineeri
 * Address: 395 Dreese Laboratory, 2015 Neil Ave, Columbus, OH-43210, USA
 
 ## Update
+* Tired of the slow speed of graph embedding? Try our [multi-level framework](https://arxiv.org/pdf/1703.08100.pdf) to speed up your embedding method. (02/2018).
 * Our work of Human-guided Flood Mapping is accepted by WWW'18 (12/2017).
 * Our work of SEANO is accepted by SDM'18. **Code and data are available [online](/SEANO)**.(12/2017)
 * Our paper on heterogeneous information networks analysis is accepted by TKDD. (10/2017)
@@ -24,6 +25,8 @@ I am a fifth-year Ph.D. student in [Department of Computer Science and Engineeri
 * The office hour for CSE2331/5331 is 4-5pm Tuesday in DL686. (2015 Spring)
 
 ## Publications
+* **J. Liang**, S. Gurukar, S. Parthasarathy. "MILE: A Multi-Level Framework for Scalable Graph Embedding". *arXiv preprint arXiv:1802.09612*, 2018. \[[PDF](https://arxiv.org/pdf/1802.09612.pdf)\]\[[Code]\](./contact_me.html)
+* **J. Liang**, P. Jacobs, J. Sun, S. Parthasarathy. "SEANO: Semi-supervised Embedding in Attributed Networks with Outliers". To appear in *Proceedings of SIAM International Conference on Data Mining (SDM'18)*, 2018. \[[PDF](https://arxiv.org/pdf/1703.08100.pdf)\]\[[Code](/SEANO)\]\[[bib](publications/SDM18.txt)\]
 * **J. Liang**, P. Jacobs, S. Parthasarathy. "Human-Guided Flood Mapping: From Experts to the Crowd". To appear in *Proceedings of the Web Conference (WWW'18)*, 2018. \[[PDF](./publications/CHUG_FM.pdf)\]
 * **J. Liang**, P. Jacobs, J. Sun, S. Parthasarathy. "SEANO: Semi-supervised Embedding in Attributed Networks with Outliers". To appear in *Proceedings of SIAM International Conference on Data Mining (SDM'18)*, 2018. \[[PDF](https://arxiv.org/pdf/1703.08100.pdf)\]\[[Code](/SEANO)\]\[[bib](publications/SDM18.txt)\]
 * **J. Liang**, D. Ajwani, P. Nicolson, A. Sala, S. Parthasarathy. "Prioritized Relationship Analysis in Heterogeneous Information Networks". in *ACM Transactions on Knowledge Discovery from Data (TKDD)*, 2018. \[[PDF](publications/TKDD_2018.pdf)\]\[[bib](publications/TKDD18.txt)\]

@@ -1,0 +1,22 @@
+---
+layout: page
+---
+
+<h2> We are working on publishing the code. But feel free to drop me an email (liangji@cse.ohio-state.edu) 
+    if you want to try out the unpolished version. </h2>
+ <div class="tips">
+  <p></p>
+   <p id="view"/>
+</div>
+
+<script>
+  var t = 15;
+  setInterval("testTime()", 1000);
+  function testTime() {
+    view.innerHTML = t + " seconds to homepage...";
+    if(t == 0) {
+      location="{{ site.url }}";
+    }
+    t--;
+  }
+</script>
