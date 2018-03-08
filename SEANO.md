@@ -21,7 +21,7 @@ They can be downloaded from [here](http://web.cse.ohio-state.edu/~liang.420/SEAN
 
 #### **How to run**
 Use `python main.py` to run the code with the default parameters. For more details of the arguments, see `main.py`. 
-You might need to use the validation dataset to tune some hyper-parameters (e.g., `g_batch_size`, `g_sample_size`, etc.) 
+You might need to use the validation dataset to tune some hyper-parameters (e.g., `graph_context_batch_size`, `label_context_batch_size`, etc.) 
 for your own dataset. 
 
 #### **Inputs**
