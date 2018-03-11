@@ -12,6 +12,9 @@ many embedding methods by reducing both the running time and memory consumption.
 Additionally, MILE also provides a lift in the quality of node embeddings in most of the cases.
 Read [our paper](https://arxiv.org/pdf/1802.09612.pdf) for more details. Here we publish our code and data with a brief instruction on how to add a new embedding method as the base embedding technique.
 
+#### **Code and Data**
+The code and dataset can be accessed [here](http://web.cse.ohio-state.edu/~liang.420/MILE_CODE.zip).
+
 #### **Required Packages**
 * tensorflow
 * numpy
