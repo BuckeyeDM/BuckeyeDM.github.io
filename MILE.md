@@ -37,7 +37,7 @@ The code and dataset can be accessed [here](http://web.cse.ohio-state.edu/~liang
 Use `python main.py` to run the code with all the default settings. Here are some useful arguments that can be passed to the program:
 * `--data`: name of the dataset (file located in `./dataset/`), e.g., `--data PPI`.
 * `--format`: the format of a dataset, should be either *edgelist* or *metis*, e.g., `--format metis` (by default it is *metis*).
-* `--basic-embed`: name of the base embedding method, e.g., `--basic-embed DEEPWALK`.
+* `--basic-embed`: name of the base embedding method, e.g., `--basic-embed deepwalk`.
 * `--coarsen-level`: number of levels for coarsening, e.g., `--coarsen-level 2`.
 * `--embed-dim`: dimensionality for embedding, e.g., `--embed-dim 128`.
 * `--store-embed`: will store the embeddings if enabled.
@@ -50,9 +50,5 @@ Use `python main.py` to run the code with all the default settings. Here are som
 Follow the steps below to add a new base embedding method (say `DeepWalk`):
   1. Create a python file in `./base_embed_methods/` (e.g., `deepwalk.py`).
   2. Include the original embedding implementation in that file (e.g., `def DeepWalk_Original(...)` in `deepwalk.py`).
-  3. Provide a wrapper method to generate embeddings using the original embedding method; this wrapper will be called by MILE framework (e.g., `def DEEPWALK(...)` in `deepwalk.py`).
-  4. Add the name of the new method as a choice to `--basic-embed` in the arguments of `./main.py` (*line-33*).
-  5. Assign the name of the embedding method (wrapper name) to `basic_embed` within `select_base_embed` method of `./main.py` (e.g., `basic_embed = DEEPWALK`).
-
-
-
+  3. Provide a wrapper method to generate embeddings using the original embedding method; this wrapper will be called by MILE framework (e.g., `def deepwalk(...)` in `deepwalk.py`).<br/><b>NOTE</b>: The wrapper method should be same as the filename in Step 1.
+  4. Add the name of the wrapper method in Step 3 as a choice to `--basic-embed` in the arguments of `./main.py`.
