@@ -9,10 +9,12 @@ excludedFromNav: true
 I am a fifth-year Ph.D. student in [Department of Computer Science and Engineering](https://cse.osu.edu/), The Ohio State University. My advisor is [Professor Srinivasan Parthasarathy](http://web.cse.ohio-state.edu/~parthasarathy.2/). My research interest lies in general Data Mining and Machine Learning with a focus on Network Embedding, Outlier Detection, and Graph Mining. Before joining OSU, I got my Bachelor Degree in Computer Science and Engineering from [Beihang University](http://ev.buaa.edu.cn/) in 2013. 
 
 ## Contact
-* Email: liangji AT cse.ohio-state.edu
+* Email: liang.albert AT outlook.com  ~~liangji AT cse.ohio-state.edu~~
 * Address: 395 Dreese Laboratory, 2015 Neil Ave, Columbus, OH-43210, USA
 
 ## Update
+* I will join Google in June and work with a ML research team (05/2018).
+* I have finished my PhD at Ohio State :) (05/2018).
 * Tired of slow speed of graph embedding? Try our [multi-level framework](https://arxiv.org/pdf/1802.09612.pdf) to speed up your embedding method. (02/2018).
 * Our work of SEANO is accepted by SDM'18. **Code and data are available [online](/SEANO)**.(12/2017)
 * Our work of Human-guided Flood Mapping is accepted by WWW'18 (12/2017).
