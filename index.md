@@ -9,8 +9,8 @@ excludedFromNav: true
 I am a fifth-year Ph.D. student in [Department of Computer Science and Engineering](https://cse.osu.edu/), The Ohio State University. My advisor is [Professor Srinivasan Parthasarathy](http://web.cse.ohio-state.edu/~parthasarathy.2/). My research interest lies in general Data Mining and Machine Learning with a focus on Network Embedding, Outlier Detection, and Graph Mining. Before joining OSU, I got my Bachelor Degree in Computer Science and Engineering from [Beihang University](http://ev.buaa.edu.cn/) in 2013. 
 
 ## Contact
-* Email: liang.albert AT outlook.com  ~~liangji AT cse.ohio-state.edu~~
-* Address: 395 Dreese Laboratory, 2015 Neil Ave, Columbus, OH-43210, USA
+* **Email**: liang.albert AT outlook.com  <span style="color:#808080">~~liangji AT cse.ohio-state.edu~~</span>.
+* **Address**: 395 Dreese Laboratory, 2015 Neil Ave, Columbus, OH-43210, USA.
 
 ## Update
 * I will join Google in June and work with a ML research team (05/2018).
