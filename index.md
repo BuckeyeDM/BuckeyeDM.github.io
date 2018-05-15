@@ -15,7 +15,7 @@ I am a fifth-year Ph.D. student in [Department of Computer Science and Engineeri
 ## Update
 * I will join Google in June and work with a ML research team (05/2018).
 * I have finished my PhD at Ohio State :) (05/2018).
-* Tired of slow speed of graph embedding? Try our [multi-level framework](https://arxiv.org/pdf/1802.09612.pdf) to speed up your embedding method. (02/2018).
+* **Tired of slow speed of graph embedding? Try our [multi-level framework](https://arxiv.org/pdf/1802.09612.pdf) to speed up your embedding method.** (02/2018).
 * Our work of SEANO is accepted by SDM'18. **Code and data are available [online](/SEANO)**.(12/2017)
 * Our work of Human-guided Flood Mapping is accepted by WWW'18 (12/2017).
 * Our paper on heterogeneous information networks analysis is accepted by TKDD. (10/2017)
