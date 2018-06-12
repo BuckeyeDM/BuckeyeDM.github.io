@@ -6,7 +6,7 @@ excludedFromNav: true
 ---
 
 ## Basic Information
-I am a fifth-year Ph.D. student in [Department of Computer Science and Engineering](https://cse.osu.edu/), The Ohio State University. My advisor is [Professor Srinivasan Parthasarathy](http://web.cse.ohio-state.edu/~parthasarathy.2/). My research interest lies in general Data Mining and Machine Learning with a focus on Network Embedding, Outlier Detection, and Graph Mining. Before joining OSU, I got my Bachelor Degree in Computer Science and Engineering from [Beihang University](http://ev.buaa.edu.cn/) in 2013. 
+I did my Ph.D. in [Department of Computer Science and Engineering](https://cse.osu.edu/), The Ohio State University, working with [Professor Srinivasan Parthasarathy](http://web.cse.ohio-state.edu/~parthasarathy.2/). My Ph.D. research lies in general Data Mining and Machine Learning with a focus on Network Embedding, Outlier Detection, and Graph Mining. Before joining OSU, I got my Bachelor Degree in Computer Science and Engineering from [Beihang University](http://ev.buaa.edu.cn/) in 2013. 
 
 ## Contact
 * **Email**: liang.albert AT outlook.com  <span style="color:#A9A9A9">~~liangji AT cse.ohio-state.edu~~</span>.
