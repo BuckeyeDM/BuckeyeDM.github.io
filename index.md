@@ -41,6 +41,7 @@ I am now working at Google. Before this, I received my Ph.D. in [Department of C
 * AAAI 2019, Program Committee Member
 * CIKM 2017, Program Committee Member
 * WWW 2017, Program Committee Member
+* IEEE Transactions on Knowledge and Data Engineering (TKDE), Reviwer
 * ACM Transactions on Knowledge Discovery from Data (TKDD), Reviewer
 * Data Mining and Knowledge Discovery (DMKD), Reviewer
 * IEEE/ACM Transactions on Networking (ToN), Reviewer
