@@ -15,7 +15,7 @@ I am now working at Google. Before this, I received my Ph.D. in [Department of C
 ## Update
 * I join Google and work with a ML research team (06/2018).
 * I have finished my PhD at Ohio State :) (05/2018).
-* **Tired of slow speed of graph embedding? Try our [multi-level framework](https://arxiv.org/pdf/1802.09612.pdf) to speed up your embedding method.** (02/2018).
+* **Tired of slow speed of graph embedding? Try our [multi-level framework](https://arxiv.org/pdf/1802.09612.pdf) to speed up your embedding method. Code available [here](/MILE).** (02/2018).
 * Our work of SEANO is accepted by SDM'18. **Code and data are available [online](/SEANO)**.(12/2017)
 * Our work of Human-guided Flood Mapping is accepted by WWW'18 (12/2017).
 * Our paper on heterogeneous information networks analysis is accepted by TKDD. (10/2017)
@@ -27,7 +27,7 @@ I am now working at Google. Before this, I received my Ph.D. in [Department of C
 * The office hour for CSE2331/5331 is 4-5pm Tuesday in DL686. (2015 Spring)
 
 ## Publications
-* **J. Liang**, S. Gurukar, S. Parthasarathy. "MILE: A Multi-Level Framework for Scalable Graph Embedding". *arXiv preprint arXiv:1802.09612*, 2018. \[[PDF](https://arxiv.org/pdf/1802.09612.pdf)\]\[[Code & Data](./contact_me.html)\]
+* **J. Liang**, S. Gurukar, S. Parthasarathy. "MILE: A Multi-Level Framework for Scalable Graph Embedding". *arXiv preprint arXiv:1802.09612*, 2018. \[[PDF](https://arxiv.org/pdf/1802.09612.pdf)\]\[[Code & Data](./MILE)\]
 * **J. Liang**, P. Jacobs, J. Sun, S. Parthasarathy. "Semi-supervised Embedding in Attributed Networks with Outliers". In *Proceedings of SIAM International Conference on Data Mining (SDM'18)*, 2018. \[[PDF](https://arxiv.org/pdf/1703.08100.pdf)\]\[[Code & Data](/SEANO)\]\[[bib](publications/SDM18.txt)\]
 * **J. Liang**, P. Jacobs, S. Parthasarathy. "Human-Guided Flood Mapping: From Experts to the Crowd". In *Proceedings of the Web Conference (WWW'18)*, 2018. \[[PDF](./publications/CHUG_FM.pdf)\]
 * **J. Liang**, D. Ajwani, P. Nicolson, A. Sala, S. Parthasarathy. "Prioritized Relationship Analysis in Heterogeneous Information Networks". in *ACM Transactions on Knowledge Discovery from Data (TKDD)*, 2018. \[[PDF](publications/TKDD_2018.pdf)\]\[[bib](publications/TKDD18.txt)\]
