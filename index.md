@@ -10,7 +10,7 @@ I am now working at Google. Before this, I received my Ph.D. in [Department of C
 
 ## Contact
 * **Email**: liang.albert AT outlook.com  <span style="color:#A9A9A9">~~liangji AT cse.ohio-state.edu~~</span>.
-* **Address**: 395 Dreese Laboratory, 2015 Neil Ave, Columbus, OH-43210, USA.
+* **Address**: 1600 Amphitheatre Parkway, Mountain View, CA, 94043
 
 ## Update
 * I join Google and work with a ML research team (06/2018).
