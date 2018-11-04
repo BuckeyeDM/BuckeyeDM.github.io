@@ -12,7 +12,7 @@ For more technical details, refer to [our paper](https://arxiv.org/pdf/1703.0810
 code and dataset along with a brief instruction on how to run the code.
 
 #### **Code and data**
-They can be downloaded from [here](http://ruan.cse.ohio-state.edu:8080/SEANO_CODE.zip).
+They can be downloaded from [here](http://13.58.248.181/SEANO_CODE.zip).
 
 #### **Required packages**
 * tensorflow
