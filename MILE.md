@@ -13,7 +13,7 @@ Additionally, MILE also provides a lift in the quality of node embeddings in mos
 Read [our paper](https://arxiv.org/pdf/1802.09612.pdf) for more details. Here we publish our code and data with a brief instruction on how to add a new embedding method as the base embedding technique.
 
 #### **Code and Data**
-The code and dataset can be accessed [here](http://13.58.248.181/MILE_CODE.zip).
+The code and dataset can be accessed [here](./MILE_CODE.zip).
 
 #### **Required Packages**
 * tensorflow
