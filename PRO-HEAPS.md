@@ -23,7 +23,7 @@ which can be inferred by the attributes of nodes. Here are the lists of data fil
 
 * [Tags](http://13.59.31.188/SOF/Tag.new.gz): This file provides the detailed information of each tag. It has two columns separated by " ### ". The first column is the id of the tag and the second column is the text of the tag.
 
-* [Users](http://13.59.31.188/SOF/datasets/User.new.gz): This is a file describing the mapping of the user id in the graph to the original id in the raw dataset. It has two columns separated by " ### ". The first column is the id of the user in our HIN and the second column is the id of the user in the original dataset. The original dataset of users can be downloaded [here](https://drive.google.com/open?id=0B51ZquKpPTzMMjA2cE16ZFV3Wjg).
+* [Users](http://13.59.31.188/SOF/User.new.gz): This is a file describing the mapping of the user id in the graph to the original id in the raw dataset. It has two columns separated by " ### ". The first column is the id of the user in our HIN and the second column is the id of the user in the original dataset. The original dataset of users can be downloaded [here](https://drive.google.com/open?id=0B51ZquKpPTzMMjA2cE16ZFV3Wjg).
 
 ### 2. DBLP
 This is a dataset preprocessed from the [DBLP dump](http://dblp.uni-trier.de/xml/). This dataset contains four types of nodes: author, paper, venue, and terminology. The terminologies are parsed from the title of each paper.  
