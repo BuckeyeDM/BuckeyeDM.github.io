@@ -39,7 +39,7 @@ I now work at Google on various Machine Learning projects. Before this, I receiv
 * Y. Ruan, D. Fuhry, **J. Liang**, Y. Wang, and S. Parthasarathy. "Community Discovery: Simple and Scalable Approaches". In User Community Discovery , pp. 23-54. Springer International Publishing, 2015. \[[link](https://link.springer.com/chapter/10.1007%2F978-3-319-23835-7_2)\]\[[bib](publications/Chap2015.txt)\]
 
 ## Professional Services
-* AAAI 2019, Program Committee Member
+* AAAI 2019/2020, Program Committee Member
 * CIKM 2017, Program Committee Member
 * WWW 2017, Program Committee Member
 * IEEE Transactions on Knowledge and Data Engineering (TKDE), Reviwer
