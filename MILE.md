@@ -52,3 +52,8 @@ Follow the steps below to add a new base embedding method (say `DeepWalk`):
   2. Include the original embedding implementation in that file (e.g., `def DeepWalk_Original(...)` in `deepwalk.py`).
   3. Provide a wrapper method to generate embeddings using the original embedding method; this wrapper will be called by MILE framework (e.g., `def deepwalk(...)` in `deepwalk.py`).<br/><b>NOTE</b>: The wrapper method should be same as the filename in Step 1.
   4. Add the name of the wrapper method in Step 3 as a choice to `--basic-embed` in the arguments of `./main.py`.
+
+### **Citation**
+If you use any part of our code, please cite our work:
+
+J. Liang, S. Gurukar, S. Parthasarathy. "MILE: A Multi-Level Framework for Scalable Graph Embedding". *arXiv preprint arXiv:1802.09612*, 2018. \[[PDF](https://arxiv.org/pdf/1802.09612.pdf)\]\[[bib](publications/MILE.txt)\]
