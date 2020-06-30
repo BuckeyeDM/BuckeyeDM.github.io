@@ -6,7 +6,7 @@ excludedFromNav: true
 ---
 
 ## Basic Information
-I am now working at Google. Before this, I received my Ph.D. in [Department of Computer Science and Engineering](https://cse.osu.edu/), The Ohio State University, working with [Professor Srinivasan Parthasarathy](http://web.cse.ohio-state.edu/~parthasarathy.2/). My Ph.D. research lies in general Data Mining and Machine Learning with a focus on Network Embedding, Outlier Detection, and Graph Mining. Before joining OSU, I got my Bachelor Degree in Computer Science and Engineering from [Beihang University](http://ev.buaa.edu.cn/) in 2013. 
+I now work at Google on various Machine Learning projects. Before this, I received my Ph.D. in [Department of Computer Science and Engineering](https://cse.osu.edu/), The Ohio State University, working with [Professor Srinivasan Parthasarathy](http://web.cse.ohio-state.edu/~parthasarathy.2/). My Ph.D. research lies in general Data Mining and Machine Learning with a focus on Graph Neural Network/Network Embedding, Outlier Detection, and Graph Mining. Before joining OSU, I got my Bachelor Degree in Computer Science and Engineering from [Beihang University](http://ev.buaa.edu.cn/) in 2013. 
 
 ## Contact
 * **Email**: liang.albert AT outlook.com  <span style="color:#A9A9A9">~~liangji AT cse.ohio-state.edu~~</span>.
@@ -28,7 +28,7 @@ I am now working at Google. Before this, I received my Ph.D. in [Department of C
 
 ## Publications
 * J. Sun, B. Bandyopadhyay, A. Bashizade, **J. Liang**, P. Sadayappan, S. Parthasarathy. "ATP: Directed Graph Embedding with Asymmetric Transitivity Preservation". In *AAAI'19* \[[pdf](https://arxiv.org/pdf/1811.00839.pdf)\]
-* **J. Liang**, S. Gurukar, S. Parthasarathy. "MILE: A Multi-Level Framework for Scalable Graph Embedding". *arXiv preprint arXiv:1802.09612*, 2018. \[[PDF](https://arxiv.org/pdf/1802.09612.pdf)\]\[[Code & Data](./MILE)\]
+* **J. Liang**, S. Gurukar, S. Parthasarathy. "MILE: A Multi-Level Framework for Scalable Graph Embedding". *arXiv preprint arXiv:1802.09612*, 2018. \[[PDF](https://arxiv.org/pdf/1802.09612.pdf)\]\[[Code & Data](./MILE)\]\[[bib](publications/MILE.txt)\]
 * **J. Liang**, P. Jacobs, J. Sun, S. Parthasarathy. "Semi-supervised Embedding in Attributed Networks with Outliers". In *Proceedings of SIAM International Conference on Data Mining (SDM'18)*, 2018. \[[PDF](https://arxiv.org/pdf/1703.08100.pdf)\]\[[Code & Data](/SEANO)\]\[[bib](publications/SDM18.txt)\]
 * **J. Liang**, P. Jacobs, S. Parthasarathy. "Human-Guided Flood Mapping: From Experts to the Crowd". In *Proceedings of the Web Conference (WWW'18)*, 2018. \[[PDF](./publications/CHUG_FM.pdf)\]
 * **J. Liang**, D. Ajwani, P. Nicolson, A. Sala, S. Parthasarathy. "Prioritized Relationship Analysis in Heterogeneous Information Networks". in *ACM Transactions on Knowledge Discovery from Data (TKDD)*, 2018. \[[PDF](publications/TKDD_2018.pdf)\]\[[bib](publications/TKDD18.txt)\]
@@ -39,9 +39,14 @@ I am now working at Google. Before this, I received my Ph.D. in [Department of C
 * Y. Ruan, D. Fuhry, **J. Liang**, Y. Wang, and S. Parthasarathy. "Community Discovery: Simple and Scalable Approaches". In User Community Discovery , pp. 23-54. Springer International Publishing, 2015. \[[link](https://link.springer.com/chapter/10.1007%2F978-3-319-23835-7_2)\]\[[bib](publications/Chap2015.txt)\]
 
 ## Professional Services
-* AAAI 2019, Program Committee Member
+### Conferences
+* WSDM 2021, Program Committee Member
+* SIGIR 2020, Program Committee Member
+* AAAI 2019/2020, Program Committee Member
 * CIKM 2017, Program Committee Member
 * WWW 2017, Program Committee Member
+
+### Journals
 * IEEE Transactions on Knowledge and Data Engineering (TKDE), Reviwer
 * ACM Transactions on Knowledge Discovery from Data (TKDD), Reviewer
 * Data Mining and Knowledge Discovery (DMKD), Reviewer
