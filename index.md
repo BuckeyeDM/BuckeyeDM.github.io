@@ -42,7 +42,7 @@ I now work at Google on various Machine Learning projects. Before this, I receiv
 ### Conferences
 * WSDM 2021, Program Committee Member
 * AAAI 2019/2020/2021, Program Committee Member
-* SIGIR 2020, Program Committee Member
+* SIGIR 2020/2021, Program Committee Member
 * CIKM 2017, Program Committee Member
 * WWW 2017, Program Committee Member
 
