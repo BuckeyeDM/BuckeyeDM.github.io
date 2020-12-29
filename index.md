@@ -40,6 +40,7 @@ I now work at Google on various Machine Learning projects. Before this, I receiv
 
 ## Professional Services
 ### Conferences
+* KDD 2021, Program Committee Member
 * WSDM 2021, Program Committee Member
 * AAAI 2019/2020/2021, Program Committee Member
 * SIGIR 2020/2021, Program Committee Member
