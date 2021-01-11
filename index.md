@@ -48,7 +48,7 @@ I now work at Google on various Machine Learning projects. Before this, I receiv
 * WWW 2017, Program Committee Member
 
 ### Journals
-* IEEE Transactions on Knowledge and Data Engineering (TKDE), Reviwer
+* IEEE Transactions on Knowledge and Data Engineering (TKDE), Reviewer
 * ACM Transactions on Knowledge Discovery from Data (TKDD), Reviewer
 * Data Mining and Knowledge Discovery (DMKD), Reviewer
 * IEEE/ACM Transactions on Networking (ToN), Reviewer
