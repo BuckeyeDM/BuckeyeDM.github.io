@@ -27,7 +27,7 @@ I now work at Google Brain on various Machine Learning projects (ranking, retrie
 * The office hour for CSE2331/5331 is 4-5pm Tuesday in DL686. (2015 Spring)
 
 ## Publications
-* **J. Liang\***, S. Gurukar\*, S. Parthasarathy. "MILE: A Multi-Level Framework for Scalable Graph Embedding". *To Appear in ICWSM'21*. \[[PDF](https://arxiv.org/pdf/1802.09612.pdf)\]\[[Code & Data](./MILE)\]\[[bib](publications/MILE.txt)\]
+* **J. Liang\***, S. Gurukar\*, S. Parthasarathy. "MILE: A Multi-Level Framework for Scalable Graph Embedding". In *ICWSM'21*. \[[PDF](https://arxiv.org/pdf/1802.09612.pdf)\]\[[Code & Data](./MILE)\]\[[bib](publications/MILE.txt)\]
 * J. Sun, B. Bandyopadhyay, A. Bashizade, **J. Liang**, P. Sadayappan, S. Parthasarathy. "ATP: Directed Graph Embedding with Asymmetric Transitivity Preservation". In *AAAI'19* \[[pdf](https://arxiv.org/pdf/1811.00839.pdf)\]
 * **J. Liang**, P. Jacobs, J. Sun, S. Parthasarathy. "Semi-supervised Embedding in Attributed Networks with Outliers". In *Proceedings of SIAM International Conference on Data Mining (SDM'18)*, 2018. \[[PDF](https://arxiv.org/pdf/1703.08100.pdf)\]\[[Code & Data](/SEANO)\]\[[bib](publications/SDM18.txt)\]
 * **J. Liang**, P. Jacobs, S. Parthasarathy. "Human-Guided Flood Mapping: From Experts to the Crowd". In *Proceedings of the Web Conference (WWW'18)*, 2018. \[[PDF](./publications/CHUG_FM.pdf)\]
