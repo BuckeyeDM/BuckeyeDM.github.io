@@ -42,8 +42,8 @@ I now work at Google Brain on various Machine Learning projects (ranking, retrie
 ### Conferences
 * AAAI 2019/2020/2021/2022, Program Committee Member
 * WSDM 2021/2022, Program Committee Member
-* KDD 2021, Program Committee Member
-* SIGIR 2020/2021, Program Committee Member
+* KDD 2021/2022, Program Committee Member
+* SIGIR 2020/2021/2022, Program Committee Member
 * SIGMOD 2021, Program Committee Member
 * CIKM 2017, Program Committee Member
 * WWW 2017, Program Committee Member
