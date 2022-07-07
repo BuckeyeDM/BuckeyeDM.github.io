@@ -6,7 +6,7 @@ excludedFromNav: true
 ---
 
 ## Basic Information
-I now work at Google Brain on various Machine Learning projects (ranking, retrieval, etc.). Before this, I received my Ph.D. in [Department of Computer Science and Engineering](https://cse.osu.edu/), The Ohio State University, working with [Professor Srinivasan Parthasarathy](http://web.cse.ohio-state.edu/~parthasarathy.2/). My Ph.D. research lies in general Data Mining and Machine Learning with a focus on Graph Neural Network/Network Embedding, Outlier Detection, and Graph Mining. Before joining OSU, I got my Bachelor Degree in Computer Science and Engineering from [Beihang University](http://ev.buaa.edu.cn/) in 2013. 
+I now work at Google Brain on applied ML research. My focus areas are *Recommender Systems*, *Ads Quality Modeling*, *Self-Supervised Learning*, *User Modeling*, and *Graph Neural Networks*. Before this, I received my Ph.D. in [Department of Computer Science and Engineering](https://cse.osu.edu/), The Ohio State University, working with [Professor Srinivasan Parthasarathy](http://web.cse.ohio-state.edu/~parthasarathy.2/). My Ph.D. research lies in general Data Mining and Machine Learning with a focus on Graph Neural Network/Network Embedding, Outlier Detection, and Graph Mining. Before joining OSU, I got my Bachelor Degree in Computer Science and Engineering from [Beihang University](http://ev.buaa.edu.cn/) in 2013. 
 
 ## Contact
 * **Email**: liang.albert AT outlook.com  <span style="color:#A9A9A9">~~liangji AT cse.ohio-state.edu~~</span>.
